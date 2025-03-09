@@ -58,7 +58,6 @@
   - Exploring Unsupervised Learning Techniques
   - Segmentation Project
 
-
 ## Day 8: Neural Networks
 - ### Theory Hours:
   - Introduction to Neural Networks
@@ -72,17 +71,6 @@
 - ### Theory Hours:
   - Overview of LLMs and their applications
   - ChatGPT architecture and capabilities
-
-
-- ### Practical Hours:
-  - Using Ollama and OpenWebUI
-  - Students creating chat bots based on a knowledge base
-
-## Day 9:  Language models
-- ### Theory Hours:
-  - Overview of LLMs and their applications
-  - ChatGPT architecture and capabilities
-
 
 - ### Practical Hours:
   - Using Ollama and OpenWebUI

@@ -1,1 +1,2 @@
-# Introduction-to-AI
+# Introduction to AI
+## [Schedule](Schedule.md)
